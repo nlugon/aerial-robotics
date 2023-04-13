@@ -1,2 +1,4 @@
-# crazy-practical2023
-The project repository for Aerial Robotics course
+# Crazy-practical
+Project of navigating a Crazyflie quadrotor in cluttered environments fully with onboard sensors
+
+**Documentation:** https://crazy-practical.readthedocs.io
