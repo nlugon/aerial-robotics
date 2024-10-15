@@ -130,3 +130,4 @@ dmypy.json
 
 # Occupancy map
 map.png
+map_ground.png
